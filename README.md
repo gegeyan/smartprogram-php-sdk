@@ -2,7 +2,8 @@
 
     smartprogram-php-sdk,封装了百度智能小程序的接口基本操作。
     其中BaiduService 为服务类，SmartProgramComponent 为组件类
-    包括授权，获取授权方的帐号基本信息，提包，提审，发布上线及涉及到的各种ticket,accesstoken 等票据的管理，票据管理使用了redis存储。
+    包括授权，获取授权方的帐号基本信息，提包，提审，发布上线及涉及到的各种ticket,accesstoken 等票据的管理
+    票据管理使用了redis存储。
 
 ### 使用指南
 
